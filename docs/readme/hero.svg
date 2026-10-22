@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+<title id="title">AI交叉科学社 · 在交叉处，遇见新的可能。</title>
+<desc id="desc">西湖大学 AI交叉科学社。保持好奇，自由交流，共同创造。2025—2026 活动档案。</desc>
+<rect width="1400" height="520" rx="12" fill="#f8f5ee"/>
+<g font-family="PingFang SC,Microsoft YaHei,Arial,sans-serif">
+<g stroke="#ae5035" stroke-width="3.5" transform="translate(62 53)"><path d="M-13 0H13M0-13V13M-9-9L9 9M9-9L-9 9"/></g>
+<text x="90" y="61" fill="#ae5035" font-size="22" font-weight="600">AI交叉科学社</text>
+<text x="1340" y="58" text-anchor="end" fill="#787065" font-size="13" letter-spacing="2">WESTLAKE UNIVERSITY</text>
+<path d="M60 85H1340" stroke="#ded8cc"/>
+<text x="60" y="137" fill="#ae5035" font-size="13" letter-spacing="2.5">CURIOUS MINDS, SHARED POSSIBILITIES</text>
+<g font-family="Songti SC,STSong,SimSun,serif" font-size="75" font-weight="500">
+<text x="57" y="234" fill="#302d26">在交叉处，</text>
+<text x="57" y="328" fill="#ae5035">遇见新的可能。</text>
+</g>
+<g fill="#787065" font-size="21"><text x="60" y="383">让不同学科的好奇心，在这里相遇。</text><text x="60" y="419">一起探索 AI 与科研、生活和未来的连接。</text></g>
+<g transform="translate(1102 269)">
+<circle r="149" fill="#ede7da"/>
+<ellipse rx="191" ry="67" fill="none" stroke="#bf957a" transform="rotate(-33)"/>
+<ellipse rx="191" ry="67" fill="none" stroke="#d5c4af" transform="rotate(39)"/>
+<circle cx="158" cy="-70" r="7" fill="#ae5035"/>
+<circle cx="-150" cy="91" r="5" fill="#ae5035"/>
+<g text-anchor="middle" fill="#ae5035"><text y="9" font-family="Georgia,serif" font-size="72">AI × X</text><text y="49" font-family="Georgia,serif" font-size="22" font-style="italic" letter-spacing="2">Everything</text></g>
+</g>
+<path d="M60 461H1340" stroke="#ded8cc"/>
+<text x="60" y="496" fill="#787065" font-size="15">保持好奇 · 自由交流 · 共同创造</text>
+<text x="1340" y="496" text-anchor="end" fill="#787065" font-size="13" letter-spacing="1.5">FIELD NOTES / 2025—2026</text>
+</g></svg>
