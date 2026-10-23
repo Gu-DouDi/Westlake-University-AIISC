@@ -18,7 +18,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent
-SITE_DIR = ROOT / "dist"
+SITE_DIR = ROOT / "docs"
 QR_SCRIPT = ROOT / "local-share" / "qrcode.min.js"
 VENDOR_DIR = ROOT / "local-share" / "vendor"
 sys.path.insert(0, str(VENDOR_DIR))
@@ -302,7 +302,7 @@ def main() -> None:
 
     required_files = (SITE_DIR / "index.html", QR_SCRIPT, VENDOR_DIR / "qrcode" / "__init__.py")
     if not all(path.is_file() for path in required_files):
-        raise SystemExit("启动文件不完整，请确认 dist 和 local-share 目录都存在。")
+        raise SystemExit("启动文件不完整，请确认 docs 和 local-share 目录都存在。")
 
     requested_port = args.port
     port = find_available_port(requested_port)
